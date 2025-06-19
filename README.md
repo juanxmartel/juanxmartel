@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **self proyects**
 
-- 🌱 I’m currently learning **Fullstack / AWS**
+- 🌱 I’m currently learning **Backend / AWS**
 
 - 📫 How to reach me **juanx.martel@gmail.com**
 
